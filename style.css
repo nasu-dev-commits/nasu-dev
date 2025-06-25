@@ -119,6 +119,7 @@ body {
 }
 
 .revealer {
+  font-size: 1rem;
   text-align: center;
   color: rgb(180, 0, 84);
   padding: 45px;
@@ -130,7 +131,7 @@ body {
   opacity: 0.3;
   transform: translateY(40px);
   transition: all 3s ease;
-  max-width: 100%;
+  max-width: 10%;
   flex-wrap: wrap;
 }
 
